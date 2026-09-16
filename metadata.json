@@ -1,0 +1,6 @@
+{
+  "name": "Peak's Marquee Venue by T.C.M",
+  "description": "A beautiful venue for your most special moments. Professional, modern, and elegant event space in Sheffield, UK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
